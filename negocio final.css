@@ -1,0 +1,13 @@
+div{
+	height: 200px;
+	width: 280px;
+	background-color: #FFDFD3;
+	margin-left: 20px;/*Margen Izquierdo*/
+	margin-bottom: 20px;
+	margin-top: 30px;/*Margen superior*/
+	float: left;
+	text-align: Center;
+	padding: 20px;
+
+}
+
